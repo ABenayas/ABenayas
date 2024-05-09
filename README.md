@@ -1,6 +1,6 @@
 # Título del Proyecto 
 
-![Imagen de Portada](Imágenes GH/Tortuga.jpg) 
+![Imagen de Portada](img/Tortuga.jpg) 
 
 ## Descripción 
 Breve descripción del proyecto, objetivos y funcionalidades principales. 
