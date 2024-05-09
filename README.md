@@ -1,23 +1,17 @@
-# Título del Proyecto 
+# RETO 2 DAM 
 
 ![Imagen de Portada](img/Tortuga.jpg) 
 
-## Descripción 
-Breve descripción del proyecto, objetivos y funcionalidades principales. 
+## Descripción del proceso:
+Se ha realizado el Reto 2 de la asignatura Entornos de Desarrollo, perteneciente al FP Desarrollo de Aplicaciones Multiplataforma.
 
-## Características 
-- Característica 1 
+## Los pasos a seguir son:
+- Se creó un proyecto de Java para subir
 - Característica 2 
 - Característica 3 
 
-## Instalación 
-Instrucciones para instalar y configurar el proyecto. 
 
-## Uso 
-Guía rápida sobre cómo utilizar el proyecto y ejemplos de código. 
 
-## Contribución 
-Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues. 
 
-## Licencia 
-Licencia bajo la cual se distribuye el proyecto. 
+
+
