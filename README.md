@@ -1,11 +1,11 @@
-#                         RETO 2 DAM 
+# RETO 2 DAM 
 
 ![Imagen de Portada](img/Tortuga.jpg) 
 
-## Descripción del proceso:
+## *Descripción del proceso:*
 Se ha realizado el Reto 2 de la asignatura Entornos de Desarrollo, perteneciente al FP Desarrollo de Aplicaciones Multiplataforma.
 
-## Los pasos a seguir son:
+## *Los pasos a seguir son:*
 - Se creó un proyecto de Java para subir
 - Característica 2 
 - Característica 3 
